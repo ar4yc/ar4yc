@@ -25,7 +25,7 @@ Hi, I'm Axell.
 - Building bigger and more interesting projects with good architecture
 
 ### ✉️Contact
-You can reach me on:
+You can contact with me on:
 - [Matrix](https://matrix.to/#/@axell:azxc.site)
 - Discord: **ar4yc**
 
