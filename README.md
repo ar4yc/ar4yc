@@ -1,7 +1,7 @@
 ## 🍀 About Me
 
 Hi, I'm Axell.
-**Self-taught beginner developer** interested in learning and building things.
+**Self-taught beginner developer**, interested in learning and building things.
 
 ### 🕐About Me
 - Currently learning **JavaScript**, **Python** and web development
