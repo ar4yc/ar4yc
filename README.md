@@ -28,4 +28,4 @@ You can contact with me on:
 - [Matrix](https://matrix.to/#/@axell:azxc.site)
 - Discord: **ar4yc**
 
-###### End.. 💨 xD
+###### End.. :D
