@@ -32,4 +32,4 @@ You can reach me on:
 <br/>
 
 ###### End.. 💨 
-* xD
+xD
