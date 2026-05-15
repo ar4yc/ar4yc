@@ -6,7 +6,6 @@ Hi, I'm Axell.
 ### 🕐About Me
 - Currently learning **JavaScript**, **Python** and web development
 - Building small projects to practice and strengthen my skills
-- I care about clean, readable and well-structured code
 
 ### 🎓My Projects
 
