@@ -29,7 +29,6 @@ You can reach me on:
 - [Matrix](https://matrix.to/#/@axell:azxc.site)
 - Discord: **ar4yc**
 <br/>
-<br/>
 
 ###### End.. 💨 
 xD
