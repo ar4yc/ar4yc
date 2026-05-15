@@ -10,7 +10,7 @@ Hi, I'm Axell.
 
 ### 🎓My Projects
 
-#### Unix Rice 
+#### ⌨️Unix Rice 
 - [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles) *(Just started)*
 - [HyprLand DotFiles](https://github.com/ar4yc/hypr-dotfiles)
 
