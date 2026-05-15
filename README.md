@@ -1,5 +1,3 @@
-## ⌨️ About me
+## 🍀 About me
 
-Contact
-* [Steam](https://steamcommunity.com/id/Ar4yk/)
-* [Matrix](https://matrix.to/#/@axell:azxc.site)
+You can contact with me using [Matrix](https://matrix.to/#/@axell:azxc.site) or discord (ar4yc).
