@@ -1,4 +1,5 @@
 ## 🍀 About Me
+<img width="1920" height="675" alt="IMG_1107" src="https://github.com/user-attachments/assets/3fbf93d6-f9ae-4c34-8f7e-d73d51cb019a"/>
 
 Hi, I'm Axell.
 **Self-taught beginner developer**, interested in learning and building things.
