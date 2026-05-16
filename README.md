@@ -9,11 +9,11 @@ Self-taught beginner developer, interested in learning and building things.
 
 ### 🎓My Projects
 
-#### ⌨️Unix Rice 
+* #### ⌨️Unix Rice 
 - [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles) *(Just started)*
 - [HyprLand DotFiles](https://github.com/ar4yc/hypr-dotfiles)
 
-#### 🖥️Game Porting
+* #### 🖥️Game Porting
 - [TCOAAL-iOS](https://github.com/ar4yc/TCOAAL-IOS) *(Canceled)*
 - [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor) *(Just started)*
 
