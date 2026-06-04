@@ -8,12 +8,13 @@ Self-taught beginner developer, interested in learning and building things.
 
 ### 🎓My Projects
 * #### ⌨️Unix Rice 
-  * [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles) *(Just started)*
+  * [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles)*(Just started)*
   * [HyprLand DotFiles](https://github.com/ar4yc/hypr-dotfiles)
 
-* #### 🖥️Game Porting
-  * [TCOAAL-iOS](https://github.com/ar4yc/TCOAAL-IOS) *(Canceled)*
-  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor) *(Just started)*
+* #### 🖥️Other
+  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor)*(Just started)*
+  * [TrollPlayer](https://github.com/ar4yc/TrollPlayer)*(Just started)*
+  * [Hitsounds](https://github.com/ar4yc/Hitsounds)
 
 ### 🏳️What I'm Learning / Want to Learn
 * Rust, C#, Python
@@ -24,6 +25,6 @@ Self-taught beginner developer, interested in learning and building things.
 ### ✉️Contact
 You can contact with me on:
 * [Matrix](https://matrix.to/#/@axell:azxc.site)
-* Discord: **ar4yc**
+* Discord: **ar4yc**<br/>
 
-###### End.. :D
+###### **End.. :D**
