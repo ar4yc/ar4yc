@@ -8,12 +8,12 @@ Self-taught beginner developer, interested in learning and building things.
 
 ### 🎓My Projects
 * #### ⌨️Unix Rice 
-  * [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles)*(Just started)*
+  * [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles) *(Just started)*
   * [HyprLand DotFiles](https://github.com/ar4yc/hypr-dotfiles)
 
 * #### 🖥️Other
-  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor)*(Just started)*
-  * [TrollPlayer](https://github.com/ar4yc/TrollPlayer)*(Just started)*
+  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor) *(Just started)*
+  * [TrollPlayer](https://github.com/ar4yc/TrollPlayer) *(Just started)*
   * [Hitsounds](https://github.com/ar4yc/Hitsounds)
 
 ### 🏳️What I'm Learning / Want to Learn
