@@ -14,6 +14,7 @@ Self-taught beginner developer, interested in learning and building things.
 * #### 🖥️Other
   * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor) *(Just started)*
   * [TrollPlayer](https://github.com/ar4yc/TrollPlayer) *(Just started)*
+  * [WinFuck](https://github.com/ar4yc/winfuck/)
   * [Hitsounds](https://github.com/ar4yc/Hitsounds)
 
 ### 🏳️What I'm Learning / Want to Learn
