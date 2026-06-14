@@ -4,7 +4,7 @@
 Hi, I'm Axell.
 Self-taught beginner developer, interested in learning and building things.
 ### 🕐About Me
-* Currently learning **JavaScript**, **Python** and web development
+* Currently learning **C#**, **Python** and web development
 * Building small projects to practice and strengthen my skills
 
 ### 🎓My Projects
