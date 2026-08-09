@@ -23,7 +23,6 @@ Self-taught beginner developer, interested in learning and building things.
 * Rust, C#, Python
 * HTML/CSS + JavaScript
 * Git, Docker, SQL
-* Building bigger and more interesting projects with good architecture
 
 ### ✉️Contact
 You can contact with me on:
