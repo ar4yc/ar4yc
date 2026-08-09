@@ -26,7 +26,6 @@ Self-taught beginner developer, interested in learning and building things.
 
 ### ✉️Contact
 You can contact with me on:
-* [Matrix](https://matrix.to/#/@axell:azxc.site)
 * Discord: **ar4yc**<br/>
 
 ###### **End.. :D**
