@@ -11,11 +11,9 @@ Self-taught beginner developer, interested in learning and building things.
 * #### ⌨️Unix Rice 
   * [Hypr DotFiles (Scrolling)](https://github.com/ar4yc/hypr-scrolling-dotfiles)
   * [Hypr DotFiles (Dwindle)](https://github.com/ar4yc/hypr-dotfiles)
-  * [Niri DotFiles](https://github.com/ar4yc/niri-dotfiles)
 * #### 🖥️Other
   * [WinFuck](https://github.com/ar4yc/WinFuck-CSharp/)
   * [WinFuck UnInstaller](https://github.com/ar4yc/WinFuck-UnInstaller/)
-  * [TrollPlayer](https://github.com/ar4yc/TrollPlayer) *(Just started)*
   * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor) *(Just started)*
   * [Hitsounds](https://github.com/ar4yc/Hitsounds)
 
