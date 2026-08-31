@@ -10,7 +10,6 @@ Self-taught beginner developer, interested in learning and building things.
 ### 🎓My Projects
 * #### ⌨️Unix Rice 
   * [Hypr DotFiles (Scrolling)](https://github.com/ar4yc/hypr-scrolling-dotfiles)
-  * [Hypr DotFiles (Dwindle)](https://github.com/ar4yc/hypr-dotfiles)
 * #### 🖥️Other
   * [WinFuck](https://github.com/ar4yc/WinFuck-CSharp/)
   * [WinFuck UnInstaller](https://github.com/ar4yc/WinFuck-UnInstaller/)
