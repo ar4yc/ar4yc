@@ -1,8 +1,8 @@
 <img width="1920" height="500" alt="wallpaper" src="https://github.com/user-attachments/assets/3fbf93d6-f9ae-4c34-8f7e-d73d51cb019a"/>
 
 ## 🍀 About
-Hi, I'm Axell.
-Self-taught beginner developer, interested in learning and building things.
+ Hi, I'm Axell.
+
 ### 🕐About Me
 * Currently learning **C#**, **Python** and web development
 * Building small projects to practice and strengthen my skills
