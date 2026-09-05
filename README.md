@@ -24,6 +24,7 @@
 
 ### ✉️Contact
 You can contact with me on:
-* Discord: **ar4yc**<br/>
+* &nbsp;&nbsp;Discord: &nbsp; **[ar4yc](https://discord.com/users/874680291560681479)**<br/>
+* Telegram: &nbsp;**[ar4yc](https://t.me/ar4yc)**<br/>
 
 ###### **End.. :D**
