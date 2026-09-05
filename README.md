@@ -13,7 +13,8 @@ Self-taught beginner developer, interested in learning and building things.
 * #### 🖥️Other
   * [WinFuck](https://github.com/ar4yc/WinFuck-CSharp/)
   * [WinFuck UnInstaller](https://github.com/ar4yc/WinFuck-UnInstaller/)
-  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor) *(Just started)*
+  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor)
+  * [TCOAAL IOS](https://github.com/ar4yc/TCOAAL-IOS)
   * [Hitsounds](https://github.com/ar4yc/Hitsounds)
 
 ### 🏳️What I'm Learning / Want to Learn
