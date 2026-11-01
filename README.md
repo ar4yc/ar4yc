@@ -17,7 +17,7 @@
   * [WinFuck UnInstaller](https://github.com/ar4yc/WinFuck-UnInstaller/)
   * [Hitsounds](https://github.com/ar4yc/Hitsounds)
 
-### 🏳️What I'm Learning / Want to Learn
+### 🏳️Want to Learn
 * Rust, C#, Python
 * HTML/CSS + JavaScript
 * Git, Docker, SQL
