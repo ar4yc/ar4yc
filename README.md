@@ -7,16 +7,6 @@
 * Currently learning **C#**, **Python** and web development
 * Building small projects to practice and strengthen my skills
 
-### 🎓My Projects
-* #### ⌨️Unix Rice 
-  * [Hypr DotFiles (Scrolling)](https://github.com/ar4yc/Hypr-Dotfiles)
-* #### 🖥️Other
-  * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor)
-  * [TCOAAL IOS](https://github.com/ar4yc/TCOAAL-IOS)
-  * [WinFuck](https://github.com/ar4yc/WinFuck-CSharp/)
-  * [WinFuck UnInstaller](https://github.com/ar4yc/WinFuck-UnInstaller/)
-  * [Hitsounds](https://github.com/ar4yc/Hitsounds)
-
 ### 🏳️Want to Learn
 * Rust, C#, Python
 * HTML/CSS + JavaScript
