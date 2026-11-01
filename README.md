@@ -4,7 +4,6 @@
  Hi, I'm Axell.
 
 ### 🕐About Me
-* Currently learning **C#**, **Python** and web development
 * Building small projects to practice and strengthen my skills
 
 ### 🏳️Want to Learn
