@@ -9,7 +9,7 @@
 
 ### 🎓My Projects
 * #### ⌨️Unix Rice 
-  * [Hypr DotFiles (Scrolling)](https://github.com/ar4yc/hyprland-dotfiles-scrolling)
+  * [Hypr DotFiles (Scrolling)](https://github.com/ar4yc/Hypr-Dotfiles)
 * #### 🖥️Other
   * [TCOAAL Decryptor](https://github.com/ar4yc/TCOAAL-Decryptor)
   * [TCOAAL IOS](https://github.com/ar4yc/TCOAAL-IOS)
